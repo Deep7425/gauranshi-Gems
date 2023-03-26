@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gauranshi-Gems/static/css/main.eca8486a.css",
+    "main.js": "/gauranshi-Gems/static/js/main.47fa9237.js",
+    "static/js/787.1eb96842.chunk.js": "/gauranshi-Gems/static/js/787.1eb96842.chunk.js",
+    "index.html": "/gauranshi-Gems/index.html",
+    "main.eca8486a.css.map": "/gauranshi-Gems/static/css/main.eca8486a.css.map",
+    "main.47fa9237.js.map": "/gauranshi-Gems/static/js/main.47fa9237.js.map",
+    "787.1eb96842.chunk.js.map": "/gauranshi-Gems/static/js/787.1eb96842.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eca8486a.css",
+    "static/js/main.47fa9237.js"
+  ]
+}
